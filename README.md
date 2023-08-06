@@ -1,6 +1,6 @@
 # Machine_Learning
 
-This is a course project that is about classification and Regression tasks. The dataset are downloaded from the links below:
+This is a course project that is about classification and Regression tasks. The datasets are downloaded from the links below:
 
 https://archive.ics.uci.edu/dataset/242/energy+efficiency
 
